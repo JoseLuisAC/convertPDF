@@ -4,15 +4,15 @@ This project provides a service to convert DOCX and DOC files to PDF using Flask
 
 ## 🚀 Features
 
-✅ Converts DOCX and DOC files to PDF
-✅ Simple and easy-to-use REST API
-✅ Containerized with Docker
-✅ Optimized for Google Cloud Run
-✅ Health checks included
-✅ Detailed logging
-✅ Robust error handling
+* ✅ Converts DOCX and DOC files to PDF
+* ✅ Simple and easy-to-use REST API
+* ✅ Containerized with Docker
+* ✅ Optimized for Google Cloud Run
+* ✅ Health checks included
+* ✅ Detailed logging
+* ✅ Robust error handling
 
--## 📋 Requirements
+## 📋 Requirements
 
 - Docker
 - Google Cloud SDK (`gcloud`)
