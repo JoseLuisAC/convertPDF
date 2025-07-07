@@ -1,0 +1,10 @@
+# Ignore files for local development
+*.pyc
+__pycache__/
+.env
+.venv/
+venv/
+.DS_Store
+*.log
+.gcloudignore
+.git/

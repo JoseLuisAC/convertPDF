@@ -1,0 +1,17 @@
+# Files to ignore in Docker
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+.git
+.gitignore
+README.md
+.env
+.DS_Store
+*.log
